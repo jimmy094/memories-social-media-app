@@ -10,8 +10,7 @@ const Posts = () => {
     return (
         <h1>
             Posts
-            <Post />
-            <Post />
+            
         </h1>
     )
 }

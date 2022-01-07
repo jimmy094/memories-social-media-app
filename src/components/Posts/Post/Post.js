@@ -9,7 +9,9 @@ const Post = () => {
 
     return (
         <div>
-            Post
+            <div className="post-one">
+                <h1>Hello Im  a post</h1>
+            </div>
         </div>
     )
 }
